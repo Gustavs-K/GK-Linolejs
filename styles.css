@@ -1,4 +1,9 @@
-header/img
+mainLogo
 {
-    border:solid 5px #800080;   
+    border:solid 5px #800080;
+}
+
+productImage
+{
+    border:solid 5px black;
 }
