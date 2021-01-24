@@ -3,3 +3,8 @@ header
     border:dotted 5px #800080;
     text-align:left;
 }
+
+figure
+{
+    border:solid 5px black;
+}
