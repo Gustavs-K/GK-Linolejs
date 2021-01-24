@@ -1,9 +1,9 @@
-mainLogo
+img.mainLogo
 {
     border:solid 5px #800080;
 }
 
-productImage
+img.productImage
 {
     border:solid 5px black;
 }
