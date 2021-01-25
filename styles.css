@@ -1,6 +1,7 @@
 header
 {
     width: 200px;
+    border: dotted 5px red;
 }
 
 img.mainLogo
