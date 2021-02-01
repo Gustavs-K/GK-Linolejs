@@ -1,6 +1,9 @@
 body {
     background-color: burlywood;
   }
+  .mainLogo{
+    border: solid black 2px;
+  }
   .dropbtn {
             background-color: yellowgreen;
             color: white;
@@ -12,7 +15,7 @@ body {
           .dropdown {
             position: absolute;
             
-          top: 220px;
+          top: 270px;
             display: inline-block; 
           }
           

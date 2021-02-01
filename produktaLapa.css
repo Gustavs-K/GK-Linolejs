@@ -1,8 +1,5 @@
-#logo{
-    position: absolute;
-    left:50px ;
-    top: 50px;
-    background-color: blue;
+.mainLogo{
+    border: solid black 2px;
 }
 #informācija{
     position: absolute;
